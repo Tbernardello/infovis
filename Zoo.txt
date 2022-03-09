@@ -1,0 +1,6 @@
+-visual encondings
+-Scatter Plot Matrix (SPLOM)
+-the Reingold-Tilford algorithm
+-Squarified treemaps
+-than a naive "slice-and-dice" subdivision
+-seriation
