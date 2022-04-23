@@ -1,0 +1,45 @@
+Lugar,Fecha,Hora_Inicio,Hora_Fin,Localidad,Kilometros
+Julian Navarro 3545,11/3/2022,14:34:00,19:28:00,Beccar,0
+Auto,11/3/2022,19:29:00,19:33:00,En movimiento,"1,1"
+Blanco Encalada 1011,11/3/2022,19:34:00,19:36:00,Beccar,0
+Auto,11/3/2022,19:37:00,20:16:00,En movimiento,22
+El Ferroviario,11/3/2022,20:17:00,23:59:00,Liniers,0
+El Ferroviario,12/3/2022,0:00:00,1:08:00,Liniers,0
+Auto,12/3/2022,1:09:00,1:48:00,En movimiento,22
+Blanco Encalada 1011,12/3/2022,1:49:00,1:50:00,Beccar,0
+Auto,12/3/2022,1:51:00,1:55:00,En movimiento,"1,1"
+Julian Navarro 3545,12/3/2022,1:56:00,11:00:00,Beccar,0
+Auto,12/3/2022,11:01:00,11:30:00,En movimiento,23
+La Cantera Futbol,12/3/2022,11:31:00,13:16:00,Pilar,0
+Auto,12/3/2022,13:17:00,13:46:00,En movimiento,23
+Julian Navarro 3545,12/3/2022,13:47:00,23:59:00,Beccar,0
+Julian Navarro 3545,13/3/2022,0:00:00,12:38:00,Beccar,0
+Auto,13/3/2022,12:39:00,13:18:00,En movimiento,40
+General Savio 1000,13/3/2022,13:19:00,19:55:00,Moreno,0
+Auto,13/3/2022,19:56:00,22:00:00,En movimiento,54
+French 2756,13/3/2022,22:01:00,23:59:00,Recoleta,0
+French 2756,14/3/2022,0:00:00,9:30:00,Recoleta,0
+Subte,14/3/2022,9:31:00,10:00:00,En movimiento,"3,2"
+ITBA Sede DF,14/3/2022,10:01:00,13:05:00,Comuna 1,0
+Subte,14/3/2022,13:06:00,13:38:00,En movimiento,"3,2"
+French 2756,14/3/2022,13:39:00,17:24:00,Recoleta,0
+Subte,14/3/2022,17:25:00,17:54:00,En movimiento,"3,2"
+ITBA Sede DF,14/3/2022,17:55:00,20:10:00,Comuna 1,0
+Subte,14/3/2022,20:11:00,20:40:00,En movimiento,"3,2"
+French 2756,14/3/2022,20:41:00,23:59:00,Recoleta,0
+French 2756,15/3/2022,0:00:00,18:00:00,Recoleta,0
+Subte,15/3/2022,18:01:00,18:30:00,En movimiento,"3,2"
+ITBA Sede DF,15/3/2022,18:31:00,20:46:00,Comuna 1,0
+Auto,15/3/2022,20:47:00,21:33:00,En movimiento,27
+Julian Navarro 3545,15/3/2022,21:34:00,23:59:00,Beccar,0
+Julian Navarro 3545,16/3/2022,0:00:00,0:00:00,Beccar,0
+Julian Navarro 3545,17/3/2022,0:00:00,13:21:00,Beccar,0
+Colectivo,17/3/2022,13:22:00,13:55:00,En movimiento,15
+Subte,17/3/2022,13:56:00,14:51:00,En movimiento,12
+ITBA Sede Rectorado,17/3/2022,14:52:00,17:43:00,Parque Patricios,0
+Auto,17/3/2022,17:44:00,18:03:00,En movimiento,"7,4"
+ITBA Sede DF,17/3/2022,18:04:00,20:20:00,Comuna 1,0
+Subte,17/3/2022,20:21:00,20:49:00,En movimiento,12
+Av. Cabildo 3000,17/3/2022,20:50:00,21:01:00,Nuñez,0
+Colectivo,17/3/2022,21:02:00,21:35:00,En movimiento,15
+Julian Navarro 3545,17/3/2022,21:36:00,23:59:00,Beccar,0
